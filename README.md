@@ -2,6 +2,8 @@
 
 This is a sample [Artemis](https://github.com/paradigmxyz/artemis) bot that fills UniswapX orders atomically using Uniswap v2 and v3 liquidity.
 
+For a detailed analysis of the bot's architecture and a production readiness assessment, please see [PRODUCTION_READY.md](./PRODUCTION_READY.md).
+
 Feel free to fork and modify to run any strategies you wish to fill UniswapX orders!
 
 # Usage
