@@ -4,6 +4,8 @@ This is a sample [Artemis](https://github.com/paradigmxyz/artemis) bot that fill
 
 For a detailed analysis of the bot's architecture and a production readiness assessment, please see [PRODUCTION_READY.md](./PRODUCTION_READY.md).
 
+For a comparison between this bot's strategy and traditional cross-DEX arbitrage, see [STRATEGY_COMPARISON.md](./STRATEGY_COMPARISON.md).
+
 Feel free to fork and modify to run any strategies you wish to fill UniswapX orders!
 
 # Usage
